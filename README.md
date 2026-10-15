@@ -1,2 +1,2 @@
 # Thiele-Modul
-Einfluss auf den Thiele-Modul
+Simulation des Thiele-Moduls zum Ausprobieren
